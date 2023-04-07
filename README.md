@@ -1,1 +1,1 @@
-# Hackathon-i2c2
+# Hackathon-i2c2-FrontEnd
